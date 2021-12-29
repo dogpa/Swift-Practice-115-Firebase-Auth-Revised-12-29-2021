@@ -80,7 +80,7 @@
         <!--Login View Controller-->
         <scene sceneID="Voj-dY-Bkq">
             <objects>
-                <viewController storyboardIdentifier="LoginViewController" id="pEc-9n-QPl" customClass="LoginViewController" customModule="Swift_Practice___108_Firebase_Email_Login" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="LoginViewController" id="pEc-9n-QPl" customClass="LoginViewController" customModule="Swift_Practice___115_Firebase_Auth" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="sCp-E5-bcG">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -171,7 +171,7 @@
         <!--Login Success View Controller-->
         <scene sceneID="Loe-Mi-KZF">
             <objects>
-                <viewController storyboardIdentifier="LoginSuccessViewController" id="DpP-xB-SIe" customClass="LoginSuccessViewController" customModule="Swift_Practice___108_Firebase_Email_Login" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="LoginSuccessViewController" id="DpP-xB-SIe" customClass="LoginSuccessViewController" customModule="Swift_Practice___115_Firebase_Auth" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zAq-sD-jY8">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -240,7 +240,7 @@
         <!--Change Password View Controller-->
         <scene sceneID="9Kg-Rq-fTY">
             <objects>
-                <viewController storyboardIdentifier="ChangePasswordViewController" id="oSJ-2B-udc" customClass="ChangePasswordViewController" customModule="Swift_Practice___108_Firebase_Email_Login" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ChangePasswordViewController" id="oSJ-2B-udc" customClass="ChangePasswordViewController" customModule="Swift_Practice___115_Firebase_Auth" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3pG-ba-Grz">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -335,7 +335,7 @@
         <!--Sign In View Controller-->
         <scene sceneID="Mbx-ye-uv5">
             <objects>
-                <viewController storyboardIdentifier="SignInViewController" id="3jC-Wx-xL2" customClass="SignInViewController" customModule="Swift_Practice___108_Firebase_Email_Login" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SignInViewController" id="3jC-Wx-xL2" customClass="SignInViewController" customModule="Swift_Practice___115_Firebase_Auth" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ssr-D9-cCW">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

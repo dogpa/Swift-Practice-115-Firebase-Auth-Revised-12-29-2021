@@ -67,7 +67,7 @@ class ChangePasswordViewController: UIViewController {
                         return
                     }
                     print("改密碼時登入成功")
-                    Auth.auth().sendPasswordReset(withEmail: self.passwordInfoTextFieldCollection[1].text!) { error in
+                    Auth.auth().currentUser?.updatePassword(to: self.passwordInfoTextFieldCollection[1].text!) { error in
                         
                         if error != nil {
                             print(error?.localizedDescription)
